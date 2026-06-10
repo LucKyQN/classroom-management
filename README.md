@@ -1,6 +1,5 @@
 # Classroom Management System
 
-Hệ thống quản lý lớp học với React + Spring Boot + PostgreSQL + Kafka.
 
 ## Tech Stack
 - **Frontend**: ReactJS + Material UI + Redux Toolkit
