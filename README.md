@@ -10,6 +10,16 @@
 - **CI/CD**: GitHub Actions → Docker Hub → VPS
 
 ---
+## Screenshots
+
+**Student - Bảng điểm**
+![Student grades](docs/screenshots/student-grades.png)
+
+**Teacher - Danh sách học sinh**
+![Teacher students](docs/screenshots/teacher-students.png)
+
+**Teacher - Nhập điểm**
+![Grade input](docs/screenshots/teacher-grade-input.png)
 
 ## Quick Start
 
