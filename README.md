@@ -18,7 +18,6 @@
 git clone https://github.com/LucKyQN/classroom-management.git
 cd classroom-management
 cp .env.example .env
-# Sửa .env với thông tin mail của bạn
 ```
 
 ### 2. Chạy toàn bộ stack bằng Docker
