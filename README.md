@@ -12,7 +12,7 @@ Hệ thống quản lý lớp học với React + Spring Boot + PostgreSQL + Kaf
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone & setup
 ```bash
