@@ -106,12 +106,6 @@ classroom-management/
 3. `GradeNotificationProducer` publish event vào topic `grade-notifications`
 4. `GradeNotificationConsumer` nhận event → gửi email qua JavaMailSender
 
-## Logging (Log4j2)
-- Console + file rolling (`logs/classroom.log`)
-- Rotate hàng ngày, giữ 30 ngày, tối đa 10MB/file
-- Level: DEBUG cho `com.classroom`, INFO cho root
-
----
 
 ## Docker Secrets (GitHub Actions)
 Cần set trong GitHub Repo Settings → Secrets:
